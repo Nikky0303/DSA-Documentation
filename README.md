@@ -1,7 +1,9 @@
 # DSA Data Analysis Capstone Project
 
 ## Project One
-### Amazon Product Review Analysis (Retaiof Product, Customer review data to generate insights that can guide product nimprovement, market strategies and customer engagement, with dataset of 16 Columns and 1,465 Rows.
+### Amazon Product Review Analysis (RetailTech Insights)
+The project is to be analised through product, Customer review data to generate insights that can guide product improvement, market strategies and customer engagement, with 16 Columns and 1,465 Row dataset.  The following task was carried out with the applicable solution during the analysis procedure.
+
 
 
 ### Intake Life Cycle
