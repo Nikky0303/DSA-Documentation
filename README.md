@@ -74,11 +74,25 @@ EDA was exploring to provide answer to the following question in respect of data
     - Which customer returned items, and what segment do they belomng to?
     - If the delivery truck is the most economical but the slowest shipping methond and Express Air, is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
-  ### Data Analysis
+### Data Analysis
 This is where some basic functions/outline were used such as:
 -  Extraction of Dataset from csv file and loaded
 -  Oder_Status data was added 
 -  Numerous charts applicable was used to solve the related questions
 -  Attrition charts to anlysis to how increase the revenue from bottom 10 customers
+
+### Submission/Advise/Suggetion
+An analysis of comparation on both Top 10 Customers and 10 Bottom customers activities were drawn, for the KMS to increase the revenue from the 10 Bottom Customers this following points are what contributed to the revenue increasement in Top Customers, which must be put into:
+- That the Top 10 Customer deal in Technology accessories which move market more than other items, this should introduce to bottom customers for increament
+- The mode of shipping the large order of the top customers are through Regular Air for timely delivery, this must be accorded to increase revenue for bottom customer
+
+The delivery by truch is the most economical, but the slowest shipping mothod while the express air is the fasetest but the most expensive one.  The company spent appropriately cost by using Express Air shiipping method because of the following:
+-    The Express Air is faster
+-    The Express air deliver used base on Order Priority
+-    The Express Air delivery duration is lesser thatn other shipping method
+-    The Express Air is the rmost effective in terms of timely delivery.
+    
+    
+
 
 -  Slicer to connection all Pivot Table for visuliasation and presentation among others.
