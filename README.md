@@ -3,7 +3,7 @@
 ## Project One
 ### Amazon Product Review Analysis (RetailTech Insights)
 A certain dataset consists of 16 Columns and 1,465 Row was given for the project, to analised the product, customer review data etc to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement.  The following task was carried out with the applicable solution during the analysis procedure.
-* 
+*: What is the average discount percentage by product category?
 
 
 
