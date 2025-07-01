@@ -49,7 +49,7 @@ This is where some basic functions/outline were used such as:
 Kultra Mega Stores Invetory consists that specialised on Office supplies and furniture to Indivudial consumers, small businesses(retail), and large corporate clients (wholesales) across Lagos, Nigeia.  A data from 2009-2012 of a common separated values (.csv) excel file that constist of 21 Columns and 8,399 Rows was shared to analyze the data, present the key insights, finding and recommendation for further decision making.
 
 ### Data Source
-The primary source of that used here is KMS Case Study.csv that was extracted and loaded, no need of transformation, ia a well structured data.
+The primary source of that used here is KMS Case Study.csv that was extracted and loaded, no need of transformation for analysis purposes.
 
 ### Tools Used
 - Power BI for creating report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
@@ -59,3 +59,12 @@ The primary source of that used here is KMS Case Study.csv that was extracted an
 The dataset given is a well struture data that need not to be adjusted
 
 ### Explotory Data Analysis.
+EDA was exploring to provide answer to the following question in respect of data given:
+- Case Scenatio I
+    - Which product category had the highest sales?
+    - What are the Top 3 and Bottom 3 Regions in terms of sales?
+    - What were the total sales of appliances in Ontario?
+    - Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+    - KMS incurred the most shipping cost using which shipping method?
+    
+- Case Scenario II
