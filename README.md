@@ -19,7 +19,7 @@ The primary source of that used here is Amason Case Study.ulsx that was provided
 ### Data Cleasing and Preparation
 The dataset given is a well struture data that need not to be adjusted
 
-### Exploitory Data Analysis
+### Explotory Data Analysis
 EDA was exploring to provide answer to the following question in respect of data given:
 -  What is average discount percentage by product category?
 -  How many products are listed under each category?
