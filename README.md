@@ -10,9 +10,9 @@ A certain dataset consists of 16 Columns and 1,465 Row was given for this projec
 The primary source of that used here is Amason Case Study.ulsx that was provided and downloaded for analysis purpose.
 
 ### Tools Used
-MS Excel for data cleasing (Download here)
-Excel Pivot Table to summarise, analyze, sorting, filtering etc.
-Dashboard with appropriate charts for interative visuliasation (Downloas here)
+- MS Excel for data cleasing (Download here)
+- Excel Pivot Table to summarise, analyze, sorting, filtering etc.
+- Dashboard with appropriate charts for interative visuliasation (Downloas here)
 
 * What is the average discount percentage by product category?
 
