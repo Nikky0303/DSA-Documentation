@@ -4,7 +4,7 @@ There are two projects analysed.  The first project is a astructured excel (.uls
 ## Project 1 Topic: Amazon Product Review Analysis (RetailTech Insights)
 
 ### Project Overview
-A certain dataset consists of 16 Columns and 1,465 Row was given for this project, to analised the product, customer review data etc to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement.  The following task was carried out with the applicable solution during the analysis procedure.
+RetailTech Insights ia a company that provides e-commerce analytics solutions and the owner of this project, an excel.u;sx file consists of 16 Columns and 1,465 Rows was given, to analised the product, customer review data etc to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement for future decision making.
 
 ### Data Source
 The primary source of that used here is Amason Case Study.ulsx that was provided and downloaded for analysis purpose.
@@ -13,8 +13,6 @@ The primary source of that used here is Amason Case Study.ulsx that was provided
 - MS Excel for data cleasing [Downloade Here](https:www.microsoft.com)
 - Excel Pivot Table to summarise, analyze, sorting, filtering etc.
 - Dashboard with appropriate charts for interative visuliasation
-- Power BI for creating report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-* What is the average discount percentage by product category?
 
 ### Data Cleasing and Preparation
 The dataset given is a well struture data that need not to be adjusted
@@ -36,5 +34,28 @@ EDA was exploring to provide answer to the following question in respect of data
 -  Which categories have products with the highest discounts?
 -  Identify the top 5 products in terms of rating and number of reviews combined?
 
-### Intake Life Cycle
-Project Intake is a process of reviewing and evaluating a proposed project during the initiation phase. The purpose is to confirm that the project is feasible and aims to address the stated problem. The process is also intended to review the organizational structure of the proposed project to define whether allocated human resources are sufficient and available for doing the project and producing desired deliverables.
+### Data Analysis
+This is where some basic functions/outline were used such as:
+-  Insert of Pivot Table
+-  Creation of Calculation field to accommodate Potential Revenue
+-  Grouping
+-  Text Box
+-  Slicer to connection all Pivot Table for visuliasation and presentation among others.
+
+
+##  Project 2 Topic: Kultra Mega Stores Inventory
+
+### Project Overview
+Kultra Mega Stores Invetory consists that specialised on Office supplies and furniture to Indivudial consumers, small businesses(retail), and large corporate clients (wholesales) across Lagos, Nigeia.  A data from 2009-2012 of a common separated values (.csv) excel file that constist of 21 Columns and 8,399 Rows was shared to analyze the data, present the key insights, finding and recommendation for further decision making.
+
+### Data Source
+The primary source of that used here is KMS Case Study.csv that was extracted and loaded, no need of transformation, ia a well structured data.
+
+### Tools Used
+- Power BI for creating report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+
+### Data Cleasing and Preparation
+The dataset given is a well struture data that need not to be adjusted
+
+### Explotory Data Analysis.
