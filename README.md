@@ -68,3 +68,10 @@ EDA was exploring to provide answer to the following question in respect of data
     - KMS incurred the most shipping cost using which shipping method?
     
 - Case Scenario II
+    - Who are the most valuable customers, and what products or services do they typically purchase?
+    - Which small business consumer had the highest sales?
+    - Which Corporate Consumer placed the most number of orders in 2009-2012?
+    - Which consumer was the most profitable one?
+    - Which customer returned items, and what segment do they belomng to?
+    - If the delivery truck is the most economical but the slowest shipping methond and Express Air, is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
+    -    
