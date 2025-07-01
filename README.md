@@ -16,7 +16,21 @@ The primary source of that used here is Amason Case Study.ulsx that was provided
 - Power BI for creating report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 * What is the average discount percentage by product category?
 
+### Data Cleasing and Preparation
+The dataset given is a well struture data that need not to be adjusted
 
+### Exploitory Data Analysis
+EDA was exploring to provide answer to the following question in respect of data given:
+-  What is average discount percentage by product category?
+-  How many products are listed under each category?
+-  What is the total number of reviews per category?
+-  Which products have the highest average ratings?
+-  What is the average actual price vs the discounted price by category?
+-  Which products have the highest number of reviews?
+-  How many products have a discount of 50% or more?
+-  What is the distribution of product ratings (e.g how many products are rated 3.0, 4.0 etc)?
+-  What is the total potential revenue (actual _price*rating_count) by category?
+-  What is the numbner of unquie products per price range bucket (e.g, <
 
 ### Intake Life Cycle
 Project Intake is a process of reviewing and evaluating a proposed project during the initiation phase. The purpose is to confirm that the project is feasible and aims to address the stated problem. The process is also intended to review the organizational structure of the proposed project to define whether allocated human resources are sufficient and available for doing the project and producing desired deliverables.
