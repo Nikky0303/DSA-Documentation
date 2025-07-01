@@ -15,7 +15,7 @@ The primary source of that used here is Amason Case Study.ulsx that was provided
 - Dashboard with appropriate charts for interative visuliasation
 
 ### Data Cleasing and Preparation
-The dataset given is a well struture data that need not to be adjusted
+The dataset was given, is a well struture data that need not to be adjusted
 
 ### Explotory Data Analysis
 EDA was exploring to provide answer to the following question in respect of data given:
@@ -54,9 +54,8 @@ The primary source of that used here is KMS Case Study.csv that was extracted an
 ### Tools Used
 - Power BI for creating report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-
 ### Data Cleasing and Preparation
-The dataset given is a well struture data that need not to be adjusted
+The dataset was given, is a well struture data that need not to be adjusted
 
 ### Explotory Data Analysis.
 EDA was exploring to provide answer to the following question in respect of data given:
@@ -74,4 +73,12 @@ EDA was exploring to provide answer to the following question in respect of data
     - Which consumer was the most profitable one?
     - Which customer returned items, and what segment do they belomng to?
     - If the delivery truck is the most economical but the slowest shipping methond and Express Air, is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
-    -    
+
+  ### Data Analysis
+This is where some basic functions/outline were used such as:
+-  Extraction of Dataset from csv file and loaded
+-  Oder_Status data was added 
+-  Numerous charts applicable was used to solve the related questions
+-  Attrition charts to anlysis to how increase the revenue from bottom 10 customers
+
+-  Slicer to connection all Pivot Table for visuliasation and presentation among others.
