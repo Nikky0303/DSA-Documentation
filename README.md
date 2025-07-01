@@ -1,9 +1,14 @@
 # DSA Data Analysis Capstone Project
+There are two projects analysed.  The first project is a astructured excel (.ulsx) dataset to be analysed through pivot table and appropriate charts to building an interative dashboard, to visualiased the performance, efficiency, problems and solution for further decision making.  The second project is a common separator values(.csv) file to be extrat, transformad and load into Power Bi Table View, analyised with an appropriate charts to visualiased the performance, effieciency, attrition and solution for further decision making. 
 
-## Project One
-### Amazon Product Review Analysis (RetailTech Insights)
-A certain dataset consists of 16 Columns and 1,465 Row was given for the project, to analised the product, customer review data etc to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement.  The following task was carried out with the applicable solution during the analysis procedure.
-*: What is the average discount percentage by product category?
+## Project 1 Topic: Amazon Product Review Analysis (RetailTech Insights)
+
+### Project Overview
+A certain dataset consists of 16 Columns and 1,465 Row was given for this project, to analised the product, customer review data etc to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement.  The following task was carried out with the applicable solution during the analysis procedure.
+
+### Data Source
+The primary source of that used here is Amason Case Study.ulsx that was provided and downloaded for analysis purpose.
+* What is the average discount percentage by product category?
 
 
 
