@@ -1,5 +1,4 @@
-r# DSA Data Analysis Capstone Project
-There are two projects analysed.  The first project is a astructured excel (.ulsx) dataset to be analysed through pivot table and appropriate charts to building an interative dashboard, to visualiased the performance, efficiency, problems and solution for further decision making.  The second project is a common separator values(.csv) file to be extrat, transformad and load into Power Bi Table View, analyised with an appropriate charts to visualiased the performance, effieciency, attrition and solution for further decision making. 
+# project One
 
 ## Project 1 Topic: Amazon Product Review Analysis (RetailTech Insights)
 
