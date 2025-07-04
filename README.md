@@ -1,7 +1,8 @@
 # project One
+---
 
 ## Project 1 Topic: Amazon Product Review Analysis (RetailTech Insights)
-
+---
 [Project Overview](#project-overview)
 
 [Data Source](#data-source)
@@ -16,21 +17,26 @@
 
 [Data Visualiation](#data-visualition)
 
-### Project Overview
+### Project Overvie
+---
 RetailTech Insights ia a company that provides e-commerce analytics solutions and the owner of this project, an excel.ulsx file consists of 16 Columns and 1,465 Rows was given, to analysed the product, customer review data etc., to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement for future decision making.
 
 ### Data Source
+---
 The primary source of that used here is Amason Case Study.ulsx that was provided and downloaded for analysis purpose.
 
 ### Tools Used
+---
 - MS Excel for data cleasing [Downloade Here](https:www.microsoft.com)
 - Excel Pivot Table to summarise, analyze, sorting, filtering etc.
 - Dashboard with appropriate charts for interative visuliasation
 
 ### Data Cleasing and Preparation
+---
 The dataset was given, is a well struture data that need not to be adjusted
 
 ### Explotory Data Analysis
+---
 EDA was exploring to provide answer to the following question in respect of data given:
 -  What is average discount percentage by product category?
 -  How many products are listed under each category?
@@ -48,6 +54,7 @@ EDA was exploring to provide answer to the following question in respect of data
 -  Identify the top 5 products in terms of rating and number of reviews combined?
 
 ### Data Analysis
+---
 This is where some basic functions/outline were used such as:
 -  Insert of Pivot Table
 -  Creation of Calculation field to accommodate Potential Revenue
