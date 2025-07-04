@@ -42,7 +42,6 @@ This is where some basic functions/outline were used such as:
 -  Slicer to connection all Pivot Table for visuliasation and presentation among others.
 
 
-
  
     
 
