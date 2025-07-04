@@ -41,6 +41,9 @@ This is where some basic functions/outline were used such as:
 -  Text Box
 -  Slicer to connection all Pivot Table for visuliasation and presentation among others.
 
+### Data Visualiatio
+---
+![My Amazon Project](https://github.com/user-attachments/assets/5e257d13-ce7b-442c-aa26-6b69d82cc6e8)
 
  
     
