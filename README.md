@@ -2,6 +2,20 @@
 
 ## Project 1 Topic: Amazon Product Review Analysis (RetailTech Insights)
 
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Data Cleasing and Preparation](#Data-cleasing-and-preparation)
+
+[Explotory Data Analysis](#explotory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualiation](#data-visualition)
+
 ### Project Overview
 RetailTech Insights ia a company that provides e-commerce analytics solutions and the owner of this project, an excel.ulsx file consists of 16 Columns and 1,465 Rows was given, to analysed the product, customer review data etc., to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement for future decision making.
 
