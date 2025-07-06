@@ -17,6 +17,8 @@
 
 [Data Visualiation](#data-visualition)
 
+[Contact](contact)
+
 ### Project Overvie
 ---
 RetailTech Insights ia a company that provides e-commerce analytics solutions and the owner of this project, an excel.ulsx file consists of 16 Columns and 1,465 Rows was given, to analysed the product, customer review data etc., to generate insights that will serve as a guide of improvement in product, market strategies and customer engagement for future decision making.
@@ -67,6 +69,8 @@ This is where some basic functions/outline were used such as:
 ![My Amazon Project](https://github.com/user-attachments/assets/5e257d13-ce7b-442c-aa26-6b69d82cc6e8)
 
  
-    
-
-
+### Contact 📧
+---
+Author: Afolayan Adenike Grace  
+Email: safolayanadenike22@gamil.com  
+GitHub: github.com/Nikky0303 
